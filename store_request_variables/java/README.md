@@ -10,4 +10,4 @@ This service is to serve as an example for how to store request variables from t
       ```shell
       ./mvnw spring-boot:run
       ```
-  2. [Start the router](/router/README.md#running-the-router)
+  2. Start the router
